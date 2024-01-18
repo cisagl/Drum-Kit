@@ -1,2 +1,2 @@
-# Drum-Kit
- 
+
+![Alt text](img/drumkit.png)
